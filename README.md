@@ -1,4 +1,4 @@
-#【Hadoop 代码使用方式】
+# Hadoop 代码使用方式
 
 <pre>
 job.setInputFormatClass(SmallFileCombineTextInputFormat.class);
@@ -22,7 +22,7 @@ sohu 公司内部repo二方库中
 split的大小。后续继续可修改为直接指定map数目，但建议其实还是指定大小较好 ，否则用户将不会对程
  序有性能意识。
 
-#【Hadoop Streaing 使用方式】
+# Hadoop Streaing 使用方式
 
 注意:hadoop-streaming 要求使用hadoopV1的inputformat接口实现。
 <pre>
