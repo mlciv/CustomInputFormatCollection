@@ -1,0 +1,7 @@
+/Volumes/WorkSpace/sohu-workspace/SmallFileCombineTextInputFormat/src/main/java/org/apache/hadoop/mapred/lib/MultiFileInputWritableComparable.java
+/Volumes/WorkSpace/sohu-workspace/SmallFileCombineTextInputFormat/src/main/java/org/apache/hadoop/mapreduce/lib/input/SmallFileCombineTextInputFormat.java
+/Volumes/WorkSpace/sohu-workspace/SmallFileCombineTextInputFormat/src/main/java/org/apache/hadoop/mapreduce/sample/SmallFileWordCount.java
+/Volumes/WorkSpace/sohu-workspace/SmallFileCombineTextInputFormat/src/main/java/org/apache/hadoop/mapred/lib/CombineFileLineRecordReader.java
+/Volumes/WorkSpace/sohu-workspace/SmallFileCombineTextInputFormat/src/main/java/org/apache/hadoop/mapred/lib/SmallFileCombineTextInputFormat.java
+/Volumes/WorkSpace/sohu-workspace/SmallFileCombineTextInputFormat/src/main/java/org/apache/hadoop/mapreduce/lib/input/CombineFileLineRecordReader.java
+/Volumes/WorkSpace/sohu-workspace/SmallFileCombineTextInputFormat/src/main/java/org/apache/hadoop/mapreduce/lib/input/MultiFileInputWritableComparable.java

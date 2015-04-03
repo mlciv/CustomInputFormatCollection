@@ -1,0 +1,8 @@
+org/apache/hadoop/mapred/lib/MultiFileInputWritableComparable.class
+org/apache/hadoop/mapreduce/sample/SmallFileWordCount$MapClass.class
+org/apache/hadoop/mapreduce/lib/input/SmallFileCombineTextInputFormat.class
+org/apache/hadoop/mapreduce/sample/SmallFileWordCount.class
+org/apache/hadoop/mapred/lib/SmallFileCombineTextInputFormat.class
+org/apache/hadoop/mapreduce/lib/input/CombineFileLineRecordReader.class
+org/apache/hadoop/mapred/lib/CombineFileLineRecordReader.class
+org/apache/hadoop/mapreduce/lib/input/MultiFileInputWritableComparable.class
